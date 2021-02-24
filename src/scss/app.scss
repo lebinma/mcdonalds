@@ -281,6 +281,7 @@ body {
           justify-content: space-between;
           align-items: center;
           padding-right: 0.4rem;
+          pointer-events: none;
 
           .mobile-nav__minus-icon {
             display: none;
